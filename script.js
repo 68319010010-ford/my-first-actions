@@ -1,1 +1,3 @@
-console.log("Hello");
+function showMessage(){
+    alert("Hello GitHub Pages");
+}
